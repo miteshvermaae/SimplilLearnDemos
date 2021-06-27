@@ -1,0 +1,14 @@
+{
+	"id": "ab28c355-7517-4f39-8f38-786cab33287b",
+	"values": [
+		{
+			"key": "g_Protocol",
+			"value": "https",
+			"enabled": true
+		}
+	],
+	"name": "Team Workspace Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2021-06-27T15:05:48.056Z",
+	"_postman_exported_using": "Postman/8.7.0"
+}
